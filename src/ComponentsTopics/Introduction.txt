@@ -1,0 +1,89 @@
+React tutorial in Hindi #10 Click event and function in ReactJs
+1. How to make click event
+2. call function in the button click
+3. variable in a functional component
+4. the answer to the last ITQ:Interview Question.
+
+=========================================================================
+React tutorial in Hindi #13 Props with functional component
+1. what are props 
+2. use of props
+3. example with functional components
+4. update props on click button
+
+=========================================================================
+React tutorial in Hindi #17 Handle Form | checkbox | input field | select
+1. Make HTML Basic Form.
+2. Add Some Fields.
+3. useState for field Data.
+4. Submit  and control form.
+
+=========================================================================
+React tutorial in Hindi #18 Conditional rendering | If Condition
+1. Make component
+2. useState
+3. Not recommanded way for Condition
+4. correct way to condition
+
+=========================================================================
+React tutorial in Hindi #19 Basic Form validation
+1. Make a component 
+2. make HTML form 
+3. defines state
+4. Apply validation
+
+=========================================================================
+React tutorial in Hindi #32 Install Bootstrap
+1. What is Bootstrap 
+2. install Bootstrap
+3. use and register bootstrap lib
+4. Example with bootstrap components
+
+=========================================================================
+React tutorial in Hindi #51 fetch API | GET method
+1.What is API
+2.Call API
+3.Get API data in state
+4.Make List from API
+
+=========================================================================
+react redux tutorial in Hindi #3 Install redux in react-app
+1.Check NPM and Node 
+2.Install reactjs
+3.Install Redux
+4.Install React-Redux
+
+=========================================================================
+React Redux tutorial in Hindi #7 action
+1.What is action
+2.Make function in a action file
+3.Return data and type 
+4.Add constant and use constant in action.
+
+=========================================================================
+React Redux tutorial in Hindi #9 Container - mapDispatchToProps - mapStateToProps
+1.Connect React Redux
+2.Import React Redux , action and component.
+3.use mapDispatchToProp
+4.use mapStateToProp
+
+=========================================================================
+React Redux tutorial in Hindi #10 complete flow
+1.Make Redux Wrapper in index file.
+2.What is Provider.
+3.Make Store.
+4.Check data flow in console.
+5.call action on button click.
+
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+
+
+=========================================================================
